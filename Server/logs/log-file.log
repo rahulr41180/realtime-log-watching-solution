@@ -491,3 +491,445 @@
 2024-02-16T15:15:38.461Z - INFO: Something went wrong
 2024-02-16T15:15:43.471Z - SUCCESS: Disk space low
 2024-02-16T15:15:48.486Z - SUCCESS: Task completed successfully
+2024-02-16T16:02:37.684Z - SUCCESS: Something went wrong
+2024-02-16T16:02:42.685Z - SUCCESS: Task completed successfully
+2024-02-16T16:02:47.686Z - ERROR: Disk space low
+2024-02-16T16:02:52.689Z - WARNING: Task completed successfully
+2024-02-16T16:02:57.690Z - INFO: Application started
+2024-02-16T16:03:02.697Z - WARNING: Application started
+2024-02-16T16:03:07.710Z - ERROR: Something went wrong
+2024-02-16T16:03:12.725Z - SUCCESS: Login successfully
+2024-02-16T16:03:17.737Z - SUCCESS: Application started
+2024-02-16T16:03:22.742Z - INFO: Task completed successfully
+2024-02-16T16:03:27.754Z - SUCCESS: User logged in
+2024-02-16T16:03:32.765Z - ERROR: Task completed successfully
+2024-02-16T16:03:37.771Z - INFO: Application started
+2024-02-16T16:03:42.774Z - SUCCESS: Disk space low
+2024-02-16T16:03:47.774Z - ERROR: Login successfully
+2024-02-16T16:03:52.789Z - WARNING: User logged in
+2024-02-16T16:03:57.791Z - ERROR: Disk space low
+2024-02-16T16:04:02.797Z - SUCCESS: User logged in
+2024-02-16T16:04:07.806Z - ERROR: Something went wrong
+2024-02-16T16:04:12.816Z - SUCCESS: Application started
+2024-02-16T16:04:17.824Z - INFO: Application started
+2024-02-16T16:04:22.828Z - SUCCESS: Disk space low
+2024-02-16T16:04:27.829Z - ERROR: User logged in
+2024-02-16T16:04:32.841Z - SUCCESS: User logged in
+2024-02-16T16:04:37.842Z - ERROR: Application started
+2024-02-16T16:04:42.849Z - INFO: Disk space low
+2024-02-16T16:04:47.856Z - ERROR: Application started
+2024-02-16T16:04:52.860Z - SUCCESS: User logged in
+2024-02-16T16:04:57.875Z - SUCCESS: User logged in
+2024-02-16T16:05:02.876Z - INFO: Login successfully
+2024-02-16T16:05:07.884Z - WARNING: Disk space low
+2024-02-16T16:05:12.895Z - SUCCESS: User logged in
+2024-02-16T16:05:17.903Z - INFO: Login successfully
+2024-02-16T16:05:22.903Z - SUCCESS: Login successfully
+2024-02-16T16:05:27.907Z - ERROR: Login successfully
+2024-02-16T16:05:32.915Z - INFO: Login successfully
+2024-02-16T16:05:37.930Z - WARNING: Something went wrong
+2024-02-16T16:05:42.945Z - SUCCESS: Disk space low
+2024-02-16T16:05:47.950Z - WARNING: Something went wrong
+2024-02-16T16:05:52.958Z - INFO: Application started
+2024-02-16T16:05:57.960Z - INFO: Something went wrong
+2024-02-16T16:06:02.972Z - INFO: Login successfully
+2024-02-16T16:06:07.978Z - ERROR: Login successfully
+2024-02-16T16:06:12.986Z - WARNING: Application started
+2024-02-16T16:06:17.999Z - WARNING: Application started
+2024-02-16T16:06:23.013Z - INFO: Application started
+2024-02-16T16:06:28.022Z - WARNING: Application started
+2024-02-16T16:06:33.035Z - ERROR: Disk space low
+2024-02-16T16:06:38.040Z - INFO: Application started
+2024-02-16T16:06:43.047Z - WARNING: Disk space low
+2024-02-16T16:06:48.060Z - INFO: Disk space low
+2024-02-16T16:06:53.067Z - INFO: Application started
+2024-02-16T16:06:58.069Z - SUCCESS: Disk space low
+2024-02-16T16:07:03.081Z - WARNING: Task completed successfully
+2024-02-16T16:07:08.088Z - INFO: Login successfully
+2024-02-16T16:07:15.609Z - WARNING: Login successfully
+2024-02-16T16:07:20.609Z - ERROR: Task completed successfully
+2024-02-16T16:07:25.618Z - SUCCESS: Something went wrong
+2024-02-16T16:07:30.633Z - ERROR: Application started
+2024-02-16T16:07:35.634Z - INFO: Task completed successfully
+2024-02-16T16:07:40.645Z - WARNING: Login successfully
+2024-02-16T16:07:45.657Z - SUCCESS: Application started
+2024-02-16T16:07:50.665Z - ERROR: Login successfully
+2024-02-16T16:07:55.680Z - INFO: Something went wrong
+2024-02-16T16:08:00.695Z - SUCCESS: Disk space low
+2024-02-16T16:08:05.696Z - ERROR: Task completed successfully
+2024-02-16T16:08:10.696Z - ERROR: Disk space low
+2024-02-16T16:08:15.705Z - ERROR: User logged in
+2024-02-16T16:08:20.716Z - INFO: Login successfully
+2024-02-16T16:08:25.721Z - INFO: Disk space low
+2024-02-16T16:08:30.735Z - WARNING: Task completed successfully
+2024-02-16T16:08:35.749Z - ERROR: Something went wrong
+2024-02-16T16:08:40.760Z - WARNING: User logged in
+2024-02-16T16:08:45.761Z - WARNING: Login successfully
+2024-02-16T16:08:50.765Z - INFO: Disk space low
+2024-02-16T16:08:55.773Z - ERROR: Disk space low
+2024-02-16T16:09:00.775Z - WARNING: Task completed successfully
+2024-02-16T16:09:05.790Z - SUCCESS: Task completed successfully
+2024-02-16T16:09:10.800Z - WARNING: User logged in
+2024-02-16T16:09:15.811Z - SUCCESS: Something went wrong
+2024-02-16T16:09:20.815Z - INFO: Something went wrong
+2024-02-16T16:09:25.818Z - WARNING: Application started
+2024-02-16T16:09:30.823Z - SUCCESS: User logged in
+2024-02-16T16:09:35.822Z - SUCCESS: Login successfully
+2024-02-16T16:09:40.826Z - SUCCESS: Login successfully
+2024-02-16T16:09:45.833Z - ERROR: Something went wrong
+2024-02-16T16:09:50.847Z - WARNING: Task completed successfully
+2024-02-16T16:09:55.848Z - INFO: User logged in
+2024-02-16T16:10:00.856Z - ERROR: Login successfully
+2024-02-16T16:10:05.866Z - SUCCESS: Disk space low
+2024-02-16T16:10:10.874Z - ERROR: Disk space low
+2024-02-16T16:10:15.880Z - SUCCESS: Something went wrong
+2024-02-16T16:10:20.886Z - ERROR: Login successfully
+2024-02-16T16:10:25.897Z - ERROR: Task completed successfully
+2024-02-16T16:10:30.899Z - WARNING: Task completed successfully
+2024-02-16T16:10:35.908Z - SUCCESS: Task completed successfully
+2024-02-16T16:10:40.908Z - SUCCESS: Task completed successfully
+2024-02-16T16:10:45.918Z - SUCCESS: Something went wrong
+2024-02-16T16:10:50.929Z - ERROR: Task completed successfully
+2024-02-16T16:10:55.943Z - WARNING: Disk space low
+2024-02-16T16:11:00.952Z - INFO: Task completed successfully
+2024-02-16T16:11:05.962Z - SUCCESS: Application started
+2024-02-16T16:11:10.965Z - ERROR: User logged in
+2024-02-16T16:11:15.971Z - INFO: User logged in
+2024-02-16T16:11:20.980Z - WARNING: Login successfully
+2024-02-16T16:11:25.993Z - ERROR: Login successfully
+2024-02-16T16:11:30.996Z - INFO: Task completed successfully
+2024-02-16T16:11:36.003Z - SUCCESS: User logged in
+2024-02-16T16:11:41.009Z - WARNING: Disk space low
+2024-02-16T16:11:46.020Z - WARNING: Task completed successfully
+2024-02-16T16:11:51.022Z - INFO: Application started
+2024-02-16T16:11:56.034Z - ERROR: Task completed successfully
+2024-02-16T16:12:01.048Z - INFO: Application started
+2024-02-16T16:12:06.062Z - SUCCESS: Task completed successfully
+2024-02-16T16:12:11.075Z - ERROR: Task completed successfully
+2024-02-16T16:12:16.077Z - SUCCESS: User logged in
+2024-02-16T16:12:21.082Z - INFO: Login successfully
+2024-02-16T16:12:26.096Z - INFO: Disk space low
+2024-02-16T16:12:31.107Z - INFO: Something went wrong
+2024-02-16T16:12:36.122Z - ERROR: Login successfully
+2024-02-16T16:12:41.125Z - ERROR: Application started
+2024-02-16T16:12:46.133Z - ERROR: User logged in
+2024-02-16T16:12:51.134Z - INFO: Something went wrong
+2024-02-16T16:12:56.138Z - INFO: Application started
+2024-02-16T16:13:01.140Z - ERROR: Something went wrong
+2024-02-16T16:13:06.150Z - WARNING: Application started
+2024-02-16T16:13:11.164Z - WARNING: Application started
+2024-02-16T16:13:16.167Z - INFO: User logged in
+2024-02-16T16:13:21.173Z - SUCCESS: Disk space low
+2024-02-16T16:13:26.184Z - SUCCESS: User logged in
+2024-02-16T16:13:31.188Z - INFO: Disk space low
+2024-02-16T16:13:36.199Z - WARNING: Login successfully
+2024-02-16T16:13:41.212Z - WARNING: Disk space low
+2024-02-16T16:13:46.217Z - INFO: Something went wrong
+2024-02-16T16:13:51.231Z - INFO: Login successfully
+2024-02-16T16:13:56.240Z - INFO: Disk space low
+2024-02-16T16:14:01.247Z - ERROR: Task completed successfully
+2024-02-16T16:14:06.257Z - INFO: Task completed successfully
+2024-02-16T16:14:11.267Z - SUCCESS: Application started
+2024-02-16T16:14:16.274Z - INFO: Task completed successfully
+2024-02-16T16:14:21.279Z - INFO: User logged in
+2024-02-16T16:14:26.284Z - INFO: User logged in
+2024-02-16T16:14:31.288Z - SUCCESS: Task completed successfully
+2024-02-16T16:14:36.300Z - WARNING: Task completed successfully
+2024-02-16T16:14:41.314Z - SUCCESS: Task completed successfully
+2024-02-16T16:14:46.316Z - INFO: Application started
+2024-02-16T16:14:51.320Z - WARNING: Something went wrong
+2024-02-16T16:14:56.332Z - SUCCESS: Application started
+2024-02-16T16:15:01.333Z - ERROR: Application started
+2024-02-16T16:15:06.345Z - ERROR: Login successfully
+2024-02-16T16:15:11.358Z - INFO: Disk space low
+2024-02-16T16:15:16.373Z - ERROR: Something went wrong
+2024-02-16T16:15:21.376Z - SUCCESS: Disk space low
+2024-02-16T16:15:26.377Z - WARNING: Login successfully
+2024-02-16T16:15:31.380Z - ERROR: Disk space low
+2024-02-16T16:15:36.385Z - ERROR: Login successfully
+2024-02-16T16:15:41.388Z - WARNING: User logged in
+2024-02-16T16:15:46.402Z - WARNING: Something went wrong
+2024-02-16T16:15:51.414Z - SUCCESS: Login successfully
+2024-02-16T16:15:56.419Z - WARNING: Disk space low
+2024-02-16T16:16:01.431Z - SUCCESS: Something went wrong
+2024-02-16T16:16:06.447Z - WARNING: Task completed successfully
+2024-02-16T16:16:11.460Z - INFO: Task completed successfully
+2024-02-16T16:16:16.463Z - INFO: Login successfully
+2024-02-16T16:16:21.473Z - ERROR: User logged in
+2024-02-16T16:16:26.476Z - INFO: Login successfully
+2024-02-16T16:16:31.483Z - ERROR: Disk space low
+2024-02-16T16:16:36.491Z - WARNING: Login successfully
+2024-02-16T16:16:41.505Z - INFO: Login successfully
+2024-02-16T16:16:46.508Z - INFO: Task completed successfully
+2024-02-16T16:16:51.523Z - INFO: Something went wrong
+2024-02-16T16:16:56.535Z - WARNING: Something went wrong
+2024-02-16T16:17:01.539Z - WARNING: Something went wrong
+2024-02-16T16:17:06.555Z - SUCCESS: Application started
+2024-02-16T16:17:11.562Z - SUCCESS: Application started
+2024-02-16T16:17:16.564Z - SUCCESS: Login successfully
+2024-02-16T16:17:21.572Z - SUCCESS: Task completed successfully
+2024-02-16T16:17:26.586Z - WARNING: Disk space low
+2024-02-16T16:17:31.601Z - SUCCESS: Application started
+2024-02-16T16:17:36.601Z - SUCCESS: Task completed successfully
+2024-02-16T16:17:41.604Z - ERROR: Task completed successfully
+2024-02-16T16:17:46.607Z - WARNING: Something went wrong
+2024-02-16T16:17:51.607Z - WARNING: Something went wrong
+2024-02-16T16:17:56.622Z - SUCCESS: Application started
+2024-02-16T16:18:01.630Z - ERROR: Application started
+2024-02-16T16:18:06.631Z - SUCCESS: Something went wrong
+2024-02-16T16:18:11.643Z - SUCCESS: Disk space low
+2024-02-16T16:18:16.644Z - SUCCESS: Login successfully
+2024-02-16T16:18:21.648Z - WARNING: Something went wrong
+2024-02-16T16:18:26.652Z - SUCCESS: Task completed successfully
+2024-02-16T16:18:31.660Z - ERROR: Disk space low
+2024-02-16T16:18:36.665Z - SUCCESS: User logged in
+2024-02-16T16:18:41.666Z - ERROR: User logged in
+2024-02-16T16:18:46.674Z - WARNING: Something went wrong
+2024-02-16T16:18:51.685Z - SUCCESS: Login successfully
+2024-02-16T16:18:56.700Z - WARNING: Login successfully
+2024-02-16T16:19:01.716Z - ERROR: Something went wrong
+2024-02-16T16:19:06.724Z - INFO: User logged in
+2024-02-16T16:19:11.738Z - SUCCESS: Task completed successfully
+2024-02-16T16:19:16.753Z - ERROR: Login successfully
+2024-02-16T16:19:21.761Z - INFO: Something went wrong
+2024-02-16T16:19:26.766Z - WARNING: Something went wrong
+2024-02-16T16:19:31.776Z - INFO: Disk space low
+2024-02-16T16:19:36.790Z - SUCCESS: Login successfully
+2024-02-16T16:19:41.798Z - SUCCESS: Task completed successfully
+2024-02-16T16:19:46.803Z - SUCCESS: Login successfully
+2024-02-16T16:19:51.805Z - ERROR: Disk space low
+2024-02-16T16:19:56.810Z - INFO: Application started
+2024-02-16T16:20:01.825Z - ERROR: Something went wrong
+2024-02-16T16:20:06.835Z - SUCCESS: Disk space low
+2024-02-16T16:20:11.844Z - WARNING: Something went wrong
+2024-02-16T16:20:16.847Z - INFO: Something went wrong
+2024-02-16T16:20:21.854Z - INFO: Something went wrong
+2024-02-16T16:20:26.862Z - SUCCESS: Something went wrong
+2024-02-16T16:20:31.869Z - INFO: Task completed successfully
+2024-02-16T16:20:36.878Z - INFO: Task completed successfully
+2024-02-16T16:20:41.886Z - INFO: Login successfully
+2024-02-16T16:20:46.894Z - WARNING: User logged in
+2024-02-16T16:20:51.906Z - SUCCESS: Application started
+2024-02-16T16:20:56.919Z - ERROR: Login successfully
+2024-02-16T16:21:01.933Z - WARNING: Login successfully
+2024-02-16T16:21:06.941Z - SUCCESS: Task completed successfully
+2024-02-16T16:21:11.941Z - ERROR: Login successfully
+2024-02-16T16:21:16.954Z - ERROR: Application started
+2024-02-16T16:21:21.959Z - ERROR: Task completed successfully
+2024-02-16T16:21:26.965Z - INFO: Task completed successfully
+2024-02-16T16:21:31.980Z - SUCCESS: Login successfully
+2024-02-16T16:21:36.994Z - SUCCESS: Something went wrong
+2024-02-16T16:21:42.001Z - INFO: User logged in
+2024-02-16T16:21:47.014Z - ERROR: Task completed successfully
+2024-02-16T16:21:52.015Z - SUCCESS: Application started
+2024-02-16T16:21:57.017Z - SUCCESS: Task completed successfully
+2024-02-16T16:22:02.021Z - INFO: User logged in
+2024-02-16T16:22:07.031Z - WARNING: Login successfully
+2024-02-16T16:22:12.039Z - WARNING: Login successfully
+2024-02-16T16:22:17.044Z - WARNING: User logged in
+2024-02-16T16:22:22.044Z - WARNING: Something went wrong
+2024-02-16T16:22:27.050Z - WARNING: Application started
+2024-02-16T16:22:32.064Z - ERROR: Something went wrong
+2024-02-16T16:22:37.068Z - SUCCESS: Task completed successfully
+2024-02-16T16:22:42.076Z - ERROR: Something went wrong
+2024-02-16T16:22:47.078Z - ERROR: Something went wrong
+2024-02-16T16:22:52.087Z - SUCCESS: Login successfully
+2024-02-16T16:22:57.090Z - SUCCESS: User logged in
+2024-02-16T16:23:02.090Z - ERROR: Something went wrong
+2024-02-16T16:23:07.090Z - INFO: User logged in
+2024-02-16T16:23:12.101Z - SUCCESS: Something went wrong
+2024-02-16T16:23:17.107Z - ERROR: Disk space low
+2024-02-16T16:23:22.120Z - ERROR: Application started
+2024-02-16T16:23:27.132Z - INFO: Login successfully
+2024-02-16T16:23:32.147Z - ERROR: Disk space low
+2024-02-16T16:23:37.157Z - ERROR: Application started
+2024-02-16T16:23:42.158Z - INFO: Disk space low
+2024-02-16T16:23:47.168Z - ERROR: Login successfully
+2024-02-16T16:23:52.181Z - ERROR: Application started
+2024-02-16T16:23:57.195Z - SUCCESS: Task completed successfully
+2024-02-16T16:24:02.207Z - INFO: Login successfully
+2024-02-16T16:24:07.214Z - WARNING: User logged in
+2024-02-16T16:24:12.228Z - INFO: Task completed successfully
+2024-02-16T16:24:17.239Z - SUCCESS: Task completed successfully
+2024-02-16T16:24:22.252Z - INFO: Disk space low
+2024-02-16T16:24:27.252Z - ERROR: Something went wrong
+2024-02-16T16:24:32.258Z - WARNING: User logged in
+2024-02-16T16:24:37.270Z - SUCCESS: Task completed successfully
+2024-02-16T16:24:42.284Z - INFO: User logged in
+2024-02-16T16:24:47.294Z - INFO: Login successfully
+2024-02-16T16:24:52.303Z - WARNING: Task completed successfully
+2024-02-16T16:24:57.318Z - ERROR: Login successfully
+2024-02-16T16:25:02.326Z - WARNING: Disk space low
+2024-02-16T16:25:07.330Z - ERROR: Disk space low
+2024-02-16T16:25:12.344Z - ERROR: Something went wrong
+2024-02-16T16:25:17.358Z - ERROR: Something went wrong
+2024-02-16T16:25:22.368Z - SUCCESS: Application started
+2024-02-16T16:25:27.376Z - WARNING: Something went wrong
+2024-02-16T16:25:32.382Z - INFO: Something went wrong
+2024-02-16T16:25:37.392Z - INFO: Something went wrong
+2024-02-16T16:25:42.392Z - WARNING: User logged in
+2024-02-16T16:25:47.400Z - WARNING: Disk space low
+2024-02-16T16:25:52.406Z - INFO: Something went wrong
+2024-02-16T16:25:57.421Z - INFO: Disk space low
+2024-02-16T16:26:02.436Z - INFO: Application started
+2024-02-16T16:26:07.450Z - WARNING: User logged in
+2024-02-16T16:26:12.456Z - SUCCESS: Task completed successfully
+2024-02-16T16:26:17.463Z - WARNING: Login successfully
+2024-02-16T16:26:22.472Z - SUCCESS: Application started
+2024-02-16T16:26:27.479Z - INFO: Application started
+2024-02-16T16:26:32.480Z - SUCCESS: Login successfully
+2024-02-16T16:26:37.481Z - INFO: User logged in
+2024-02-16T16:26:42.486Z - WARNING: User logged in
+2024-02-16T16:26:47.488Z - INFO: Task completed successfully
+2024-02-16T16:26:52.501Z - INFO: Disk space low
+2024-02-16T16:26:57.504Z - ERROR: User logged in
+2024-02-16T16:27:02.516Z - WARNING: Disk space low
+2024-02-16T16:27:07.525Z - INFO: Task completed successfully
+2024-02-16T16:27:12.537Z - WARNING: Login successfully
+2024-02-16T16:27:17.545Z - INFO: Login successfully
+2024-02-16T16:27:22.552Z - WARNING: Disk space low
+2024-02-16T16:27:27.562Z - INFO: Application started
+2024-02-16T16:27:32.569Z - ERROR: Disk space low
+2024-02-16T16:27:37.583Z - INFO: User logged in
+2024-02-16T16:27:42.595Z - SUCCESS: Disk space low
+2024-02-16T16:27:47.596Z - SUCCESS: Task completed successfully
+2024-02-16T16:27:52.602Z - WARNING: Application started
+2024-02-16T16:27:57.615Z - WARNING: Application started
+2024-02-16T16:28:02.630Z - INFO: Login successfully
+2024-02-16T16:28:07.639Z - WARNING: Login successfully
+2024-02-16T16:28:12.651Z - WARNING: Something went wrong
+2024-02-16T16:28:17.660Z - WARNING: Login successfully
+2024-02-16T16:28:22.675Z - WARNING: Task completed successfully
+2024-02-16T16:28:27.687Z - INFO: Login successfully
+2024-02-16T16:28:32.687Z - WARNING: Task completed successfully
+2024-02-16T16:28:37.686Z - SUCCESS: User logged in
+2024-02-16T16:28:42.700Z - INFO: User logged in
+2024-02-16T16:28:47.707Z - SUCCESS: Disk space low
+2024-02-16T16:28:52.708Z - WARNING: Something went wrong
+2024-02-16T16:28:57.720Z - INFO: Disk space low
+2024-02-16T16:29:02.735Z - WARNING: Disk space low
+2024-02-16T16:29:07.743Z - WARNING: Something went wrong
+2024-02-16T16:29:12.758Z - ERROR: Disk space low
+2024-02-16T16:29:17.769Z - INFO: Something went wrong
+2024-02-16T16:29:22.774Z - INFO: Application started
+2024-02-16T16:29:27.781Z - SUCCESS: Login successfully
+2024-02-16T16:29:32.787Z - INFO: Task completed successfully
+2024-02-16T16:29:37.788Z - SUCCESS: Task completed successfully
+2024-02-16T16:29:42.799Z - INFO: Disk space low
+2024-02-16T16:29:47.812Z - INFO: Disk space low
+2024-02-16T16:29:52.814Z - INFO: User logged in
+2024-02-16T16:29:57.825Z - WARNING: Application started
+2024-02-16T16:30:02.839Z - ERROR: Application started
+2024-02-16T16:30:07.852Z - ERROR: Task completed successfully
+2024-02-16T16:30:12.862Z - INFO: Login successfully
+2024-02-16T16:30:17.873Z - INFO: Login successfully
+2024-02-16T16:30:22.887Z - SUCCESS: Something went wrong
+2024-02-16T16:30:27.901Z - INFO: Login successfully
+2024-02-16T16:30:32.913Z - ERROR: User logged in
+2024-02-16T16:30:37.927Z - WARNING: Disk space low
+2024-02-16T16:30:42.933Z - SUCCESS: Disk space low
+2024-02-16T16:30:47.949Z - WARNING: Something went wrong
+2024-02-16T16:30:52.954Z - INFO: User logged in
+2024-02-16T16:30:57.969Z - INFO: Task completed successfully
+2024-02-16T16:31:02.980Z - WARNING: Disk space low
+2024-02-16T16:31:07.986Z - SUCCESS: User logged in
+2024-02-16T16:31:12.991Z - INFO: Disk space low
+2024-02-16T16:31:17.994Z - INFO: Application started
+2024-02-16T16:31:22.999Z - INFO: Something went wrong
+2024-02-16T16:31:28.013Z - ERROR: User logged in
+2024-02-16T16:31:33.018Z - ERROR: Disk space low
+2024-02-16T16:31:38.029Z - ERROR: Login successfully
+2024-02-16T16:31:43.031Z - SUCCESS: Disk space low
+2024-02-16T16:31:48.038Z - SUCCESS: Application started
+2024-02-16T16:31:53.048Z - ERROR: Task completed successfully
+2024-02-16T16:31:58.061Z - WARNING: Application started
+2024-02-16T16:32:03.073Z - ERROR: Application started
+2024-02-16T16:32:08.075Z - ERROR: Login successfully
+2024-02-16T16:32:13.087Z - ERROR: Something went wrong
+2024-02-16T16:32:18.099Z - SUCCESS: Disk space low
+2024-02-16T16:32:23.102Z - INFO: Task completed successfully
+2024-02-16T16:32:28.116Z - INFO: User logged in
+2024-02-16T16:32:33.127Z - ERROR: Login successfully
+2024-02-16T16:32:38.134Z - SUCCESS: Something went wrong
+2024-02-16T16:32:43.139Z - INFO: Application started
+2024-02-16T16:32:48.149Z - SUCCESS: User logged in
+2024-02-16T16:32:53.161Z - SUCCESS: Something went wrong
+2024-02-16T16:32:58.166Z - INFO: Task completed successfully
+2024-02-16T16:33:03.167Z - SUCCESS: Application started
+2024-02-16T16:33:08.171Z - WARNING: Something went wrong
+2024-02-16T16:33:13.174Z - SUCCESS: Login successfully
+2024-02-16T16:33:18.189Z - ERROR: Login successfully
+2024-02-16T16:33:23.202Z - INFO: User logged in
+2024-02-16T16:33:28.212Z - WARNING: User logged in
+2024-02-16T16:33:33.218Z - WARNING: Disk space low
+2024-02-16T16:33:38.228Z - SUCCESS: Disk space low
+2024-02-16T16:33:43.242Z - ERROR: Task completed successfully
+2024-02-16T16:33:48.250Z - INFO: Task completed successfully
+2024-02-16T16:33:53.255Z - ERROR: Disk space low
+2024-02-16T16:33:58.256Z - ERROR: Login successfully
+2024-02-16T16:34:03.263Z - INFO: Application started
+2024-02-16T16:34:08.267Z - WARNING: Something went wrong
+2024-02-16T16:34:13.279Z - INFO: User logged in
+2024-02-16T16:34:18.289Z - ERROR: Login successfully
+2024-02-16T16:34:23.293Z - WARNING: Login successfully
+2024-02-16T16:34:28.309Z - SUCCESS: Task completed successfully
+2024-02-16T16:34:33.313Z - INFO: Disk space low
+2024-02-16T16:34:38.325Z - INFO: Something went wrong
+2024-02-16T16:34:43.339Z - INFO: Disk space low
+2024-02-16T16:34:48.348Z - WARNING: Application started
+2024-02-16T16:34:53.357Z - INFO: Login successfully
+2024-02-16T16:34:58.364Z - ERROR: Disk space low
+2024-02-16T16:35:03.375Z - INFO: Login successfully
+2024-02-16T16:35:08.380Z - SUCCESS: User logged in
+2024-02-16T16:35:13.388Z - SUCCESS: Application started
+2024-02-16T16:35:18.399Z - SUCCESS: Login successfully
+2024-02-16T16:35:23.401Z - SUCCESS: Something went wrong
+2024-02-16T16:35:28.405Z - INFO: Task completed successfully
+2024-02-16T16:35:33.420Z - ERROR: Something went wrong
+2024-02-16T16:35:38.424Z - SUCCESS: User logged in
+2024-02-16T16:35:43.432Z - SUCCESS: Something went wrong
+2024-02-16T16:35:48.440Z - WARNING: User logged in
+2024-02-16T16:35:53.451Z - SUCCESS: User logged in
+2024-02-16T16:35:58.457Z - SUCCESS: Login successfully
+2024-02-16T16:36:03.466Z - WARNING: Application started
+2024-02-16T16:36:08.475Z - ERROR: Login successfully
+2024-02-16T16:36:13.485Z - WARNING: Something went wrong
+2024-02-16T16:36:18.491Z - SUCCESS: Login successfully
+2024-02-16T16:36:23.498Z - SUCCESS: Application started
+2024-02-16T16:36:28.509Z - ERROR: Task completed successfully
+2024-02-16T16:36:33.514Z - WARNING: Something went wrong
+2024-02-16T16:36:38.515Z - WARNING: Something went wrong
+2024-02-16T16:36:43.522Z - WARNING: Application started
+2024-02-16T16:36:53.666Z - WARNING: Task completed successfully
+2024-02-16T16:36:58.672Z - INFO: User logged in
+2024-02-16T16:37:03.673Z - WARNING: Task completed successfully
+2024-02-16T16:37:08.679Z - SUCCESS: User logged in
+2024-02-16T16:38:21.118Z - WARNING: Something went wrong
+2024-02-16T16:38:26.127Z - ERROR: Application started
+2024-02-16T16:38:31.135Z - INFO: Disk space low
+2024-02-16T16:38:36.138Z - SUCCESS: Task completed successfully
+2024-02-16T16:38:41.151Z - WARNING: Disk space low
+2024-02-16T16:38:46.160Z - INFO: Something went wrong
+2024-02-16T16:38:51.162Z - INFO: Application started
+2024-02-16T16:38:56.167Z - SUCCESS: Login successfully
+2024-02-16T16:39:01.180Z - ERROR: User logged in
+2024-02-16T16:39:06.183Z - ERROR: Task completed successfully
+2024-02-16T16:39:11.188Z - SUCCESS: User logged in
+2024-02-16T16:39:16.204Z - ERROR: Something went wrong
+2024-02-16T16:39:21.214Z - SUCCESS: Disk space low
+2024-02-16T16:39:26.215Z - ERROR: Something went wrong
+2024-02-16T16:39:31.217Z - SUCCESS: Something went wrong
+2024-02-16T16:39:36.224Z - SUCCESS: User logged in
+2024-02-16T16:39:41.237Z - WARNING: Disk space low
+2024-02-16T16:39:46.251Z - ERROR: Application started
+2024-02-16T16:39:51.257Z - SUCCESS: Application started
+2024-02-16T16:39:56.262Z - INFO: Task completed successfully
+2024-02-16T16:40:01.274Z - INFO: Task completed successfully
+2024-02-16T16:40:06.277Z - SUCCESS: Disk space low
+2024-02-16T16:40:11.286Z - WARNING: Disk space low
+2024-02-16T16:40:16.290Z - ERROR: Disk space low
+2024-02-16T16:40:21.304Z - SUCCESS: Task completed successfully
+2024-02-16T16:40:26.311Z - INFO: Task completed successfully
+2024-02-16T16:40:31.317Z - INFO: Task completed successfully
+2024-02-16T16:40:36.325Z - SUCCESS: Task completed successfully
+2024-02-16T16:40:41.336Z - ERROR: Task completed successfully

@@ -50,6 +50,7 @@ io.on("connection", (socket) => {
 
   socket.emit("initialLog", initialLog);
 
+
   const watcher = chokidar.watch(logFilePath, { persistent: true });
 
   watcher.on("change", () => {
@@ -68,6 +69,7 @@ io.on("connection", (socket) => {
 const broadcastToClients = (socket, logData) => {
   socket.emit("newLog", logData);
 };
+
 
 app.use(express.static(path.join(__dirname, "../client", "build")));
 
