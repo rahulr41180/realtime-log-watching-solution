@@ -83,7 +83,6 @@ app.use(express.static(path.join(__dirname, '../client', 'build')));
 
 app.get('/log', async (req, res) => {
     try {
-        
         res.status(200).sendFile(path.join(__dirname, '../client', 'build', 'index.html'));
     } catch(error) {
         res.status(500).send({
