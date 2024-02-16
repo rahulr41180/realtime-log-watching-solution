@@ -90,7 +90,14 @@ app.get('/log', async (req, res) => {
             error : error.message
         })
     }
+
 });
+
+app.get("/", async (req, res) => {
+    res.status(200).send({
+        status : true
+    })
+})
 
 // Start Server on 8080 PORT
 const PORT = process.env.PORT || 8080
