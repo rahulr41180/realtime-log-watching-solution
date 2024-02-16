@@ -14,7 +14,9 @@ function App() {
   const [logData, setLogData] = useState([]);
 
   useEffect(() => {
-    const socket = io(socketUrl);
+    const socket = io(socketUrl, {
+      withCredentials: true 
+    });
 
     socket.on('initialLog', (initialLog) => {
       setLogData((prevData) => [...prevData, ...initialLog]);
