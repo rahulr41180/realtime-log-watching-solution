@@ -40,6 +40,7 @@ const readLastLine = (filePath, linesCount) => {
     }
 }
 
+
 const initialLog = readLastLine(logFilePath, 10);
 
 // Updating new data to log-file.log
@@ -74,7 +75,6 @@ wss.on("connection", (ws) => {
 const broadcastToClients = (client, logData) => {
     const jsonString = JSON.stringify(logData);
         if (client.readyState === WebSocket.OPEN) {
-            
             client.send(jsonString);
         }
 };
