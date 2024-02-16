@@ -21,7 +21,6 @@ const io = new Server(server, {
     },
 });
 
-
 const logFilePath = path.join(__dirname, "logs", "log-file.log");
 
 const { appendLogEntry } = require("./Update/updateLogFileWithEntry.js");
