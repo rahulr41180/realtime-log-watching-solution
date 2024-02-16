@@ -93,12 +93,6 @@ app.get('/log', async (req, res) => {
 
 });
 
-app.get("/", async (req, res) => {
-    res.status(200).send({
-        status : true
-    })
-})
-
 // Start Server on 8080 PORT
 const PORT = process.env.PORT || 8080
 server.listen(PORT, async () => {
@@ -106,6 +100,7 @@ server.listen(PORT, async () => {
         console.log(`Server listening on ${PORT} port`);
     } catch (error) {
         console.log('error:', error.message);
+        
     }
 })
 
