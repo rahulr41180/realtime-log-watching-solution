@@ -71,11 +71,11 @@ const broadcastToClients = (socket, logData) => {
 };
 
 
-app.use(express.static(path.join(__dirname, "../client", "build")));
+app.use(express.static(path.join(__dirname, "../client/build")));
 
 app.get("/", async (req, res) => {
   try {
-    res.status(200).sendFile(path.join(__dirname, "../client", "build", "index.html"));
+    res.status(200).sendFile(path.join(__dirname, "../client/build/index.html",));
   } catch (error) {
     res.status(500).send({
       status: false,
