@@ -6,9 +6,7 @@ import io from 'socket.io-client';
 // dotenv.config();
 
 // console.log('process.env.NODE_ENV:', process.env.NODE_ENV)
-const socketUrl = process.env.NODE_ENV === 'production'
-  ? 'https://realtime-log-watching-solution-server.vercel.app/'
-  : 'http://localhost:8080';
+const socketUrl = 'https://realtime-log-watching-solution-server.vercel.app/';
 
 function App() {
   const [logData, setLogData] = useState([]);

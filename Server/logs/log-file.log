@@ -933,3 +933,10 @@
 2024-02-16T16:40:31.317Z - INFO: Task completed successfully
 2024-02-16T16:40:36.325Z - SUCCESS: Task completed successfully
 2024-02-16T16:40:41.336Z - ERROR: Task completed successfully
+2024-02-16T16:45:26.626Z - SUCCESS: Something went wrong
+2024-02-16T16:45:31.641Z - SUCCESS: Disk space low
+2024-02-16T16:45:36.646Z - SUCCESS: User logged in
+2024-02-16T16:45:41.656Z - WARNING: Application started
+2024-02-16T16:46:34.610Z - WARNING: Disk space low
+2024-02-16T16:46:39.609Z - ERROR: Login successfully
+2024-02-16T16:46:44.616Z - ERROR: Something went wrong
