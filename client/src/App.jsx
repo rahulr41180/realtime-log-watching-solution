@@ -12,7 +12,6 @@ const socketUrl = process.env.NODE_ENV === "development" ? 'http://localhost:808
 function App() {
 
   const [logData, setLogData] = useState([]);
-
   useEffect(() => {
     const socket = io(socketUrl, {
       withCredentials: true 
