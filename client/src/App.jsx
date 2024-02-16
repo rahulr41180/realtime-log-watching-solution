@@ -3,11 +3,15 @@ import './App.css';
 
 import React, { useEffect, useState } from 'react';
 
+const socketUrl = process.env.NODE_ENV === 'production'
+  ? 'wss://realtime-log-watching-solution-server.vercel.app/'
+  : 'ws://localhost:8080';
+
 function App() {
   const [logData, setLogData] = useState([]);
 
   useEffect(() => {
-    const socket = new WebSocket('ws://localhost:8080');
+    const socket = new WebSocket(socketUrl);
     socket.onopen = () => {
       console.log('WebSocket connection opened');
 
@@ -40,7 +44,6 @@ function App() {
       <h1>Real-time Log Watching</h1>
       <ul>
         {logData.map((logEntry, index) => (
-
           <li key={index}>{logEntry}</li>
         ))}
       </ul>

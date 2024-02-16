@@ -15,9 +15,15 @@ const wss = new WebSocket.Server({ server });
 
 const logFilePath = path.join(__dirname, "logs", "log-file.log")
 
+const corsOptions = {
+    origin: ['http://localhost:3000', 'https://realtime-log-watching-solution-client.vercel.app'],
+    optionsSuccessStatus: 200,
+};
+
+
 // Middleware
 dotenv.config();
-app.use(cors());
+app.use(cors(corsOptions));
 
 const { appendLogEntry } = require("./Update/updateLogFileWithEntry.js");
 
@@ -80,7 +86,8 @@ const broadcastToClients = (client, logData) => {
 
 app.use(express.static(path.join(__dirname, '../client', 'build')));
 
-app.get('/log', async (req, res) => {
+
+app.get('/', async (req, res) => {
     try {
         res.status(200).sendFile(path.join(__dirname, '../client', 'build', 'index.html'));
     } catch(error) {
