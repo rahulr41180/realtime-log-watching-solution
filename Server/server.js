@@ -16,7 +16,7 @@ app.use(cors());
 
 const io = new Server(server, {
     cors: {
-        origin: ['http://localhost:3000', 'https://realtime-log-watching-solution-client.vercel.app'],
+        origin: ['http://localhost:3000'],
         methods: ["GET", "POST"]
     },
 });
@@ -78,17 +78,18 @@ const broadcastToClients = (socket, logData) => {
     io.emit("newLog", logData);
 };
 
-app.use((req, res, next) => {
-    res.header('Access-Control-Allow-Origin', 'https://realtime-log-watching-solution-client.vercel.app');
-    res.header('Access-Control-Allow-Methods', 'GET, POST');
-    
-    res.header('Access-Control-Allow-Headers', 'Content-Type');
-    next();
-});
+// app.use((req, res, next) => {
+//     res.header('Access-Control-Allow-Origin', 'https://realtime-log-watching-solution-client.vercel.app');
+
+//     res.header('Access-Control-Allow-Methods', 'GET, POST'); 
+//     res.header('Access-Control-Allow-Headers', 'Content-Type');
+//     next();
+// });
 
 
 // Handle CORS preflight requests
-app.options('*', cors());
+// app.options('*', cors());
+
 
 app.use(express.static(path.join(__dirname, "../client/build")));
 
