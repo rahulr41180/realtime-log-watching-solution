@@ -7,7 +7,7 @@ function App() {
   const [logData, setLogData] = useState([]);
 
   useEffect(() => {
-    const socket = new WebSocket('ws://localhost:8080');
+    const socket = new WebSocket('https://realtime-log-watching-solution-server.vercel.app/');
     socket.onopen = () => {
       console.log('WebSocket connection opened');
 
