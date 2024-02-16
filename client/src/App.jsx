@@ -7,10 +7,10 @@ import io from 'socket.io-client';
 
 // console.log('process.env.NODE_ENV:', process.env.NODE_ENV)
 // const socketUrl = 'https://realtime-log-watching-solution-server.vercel.app/';
-const socketUrl = 'http://localhost:8080';
+const socketUrl = process.env.NODE_ENV === "development" ? 'http://localhost:8080' : "https://realtime-log-watching-solution-server.vercel.app/";
 
 function App() {
-  
+
   const [logData, setLogData] = useState([]);
 
   useEffect(() => {
