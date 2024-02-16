@@ -1,0 +1,19 @@
+service:
+  name: realtime-logging-service
+
+provider:
+  runtime: nodejs14.x  # Adjust the Node.js version
+
+functions:
+  api:
+    handler: server.handler
+    events:
+      - http:
+          path: /
+          method: GET
+      - http:
+          path: /api/{proxy+}  # Allow all routes under /api to be handled by this function
+          method: ANY  # Allow any HTTP method for /api routes
+
+plugins:
+  - serverless-dotenv-plugin  # If you use environment variables, this plugin helps load them from a .env file
