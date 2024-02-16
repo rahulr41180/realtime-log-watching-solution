@@ -11,7 +11,6 @@ const cors = require("cors");
 const app = express();
 const server = http.createServer(app);
 
-
 const wss = new WebSocket.Server({ server });
 
 const logFilePath = path.join(__dirname, "logs", "log-file.log")
