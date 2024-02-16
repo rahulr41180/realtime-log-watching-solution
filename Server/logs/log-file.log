@@ -488,3 +488,6 @@
 2024-02-16T15:15:23.444Z - WARNING: Application started
 2024-02-16T15:15:28.447Z - INFO: Task completed successfully
 2024-02-16T15:15:33.461Z - WARNING: Application started
+2024-02-16T15:15:38.461Z - INFO: Something went wrong
+2024-02-16T15:15:43.471Z - SUCCESS: Disk space low
+2024-02-16T15:15:48.486Z - SUCCESS: Task completed successfully
