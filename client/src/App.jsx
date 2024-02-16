@@ -4,16 +4,31 @@ import './App.css';
 import React, { useEffect, useState } from 'react';
 
 function App() {
-
-  const [logData, setLogData] = useState('');
+  const [logData, setLogData] = useState([]);
 
   useEffect(() => {
     const socket = new WebSocket('ws://localhost:8080');
+    socket.onopen = () => {
+      console.log('WebSocket connection opened');
 
+    };
 
     socket.onmessage = (event) => {
-      console.log('event:', event.data);
-      setLogData((prevData) => prevData + event.data + '\n');
+      try {
+        const data = JSON.parse(event.data);
+        setLogData((prevData) => [...prevData, ...data]);
+      } catch (error) {
+        console.error('Error parsing JSON:', error);
+      }
+
+    };
+
+    socket.onclose = () => {
+      console.log('WebSocket connection closed');
+    };
+  
+    socket.onerror = (error) => {
+      console.error('WebSocket error:', error);
     };
 
     return () => {
@@ -22,9 +37,13 @@ function App() {
   }, []);
   return (
     <div className="App">
-
       <h1>Real-time Log Watching</h1>
-      <pre>{logData}</pre>
+      <ul>
+        {logData.map((logEntry, index) => (
+
+          <li key={index}>{logEntry}</li>
+        ))}
+      </ul>
     </div>
   );
 }
